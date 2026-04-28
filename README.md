@@ -15,8 +15,7 @@
 
 | Проект | Что умеет | Статус |
 |--------|-----------|--------|
-| [GeometryGuru](https://github.com/is1omzhon/GeometryGuru) | Калькулятор геометрических фигур | ✅ Завершён |
-| *Новый проект* | *Скоро будет* | 🚧 В разработке |
+| [GeometryGuru](https://github.com/is1omzhon/GeometryGuru) | Калькулятор геометрических фигур | В разработке|
 
 ### 📚 Чему я учусь прямо сейчас
 
@@ -36,5 +35,5 @@
 ## 📫 Как связаться со мной
 
 - **GitHub:** [@is1omzhon](https://github.com/is1omzhon)
-- **Telegram:** *islam0025*
-- **Email:** *islomjons765.com*
+- **Telegram:** [@is1am0025]((https://web.telegram.org/a/))
+- **Email:** *islomjons765s@gmail.com*
