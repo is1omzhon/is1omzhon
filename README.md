@@ -1,38 +1,35 @@
-# Привет, меня зовут Ислам 👋
+# 👋 Hi there, I'm Islomzhon!
 
-## 🔰 Начинающий C# разработчик
+### 🚀 C# Developer | .NET Enthusiast | Problem Solver
 
-Я учусь программированию и создаю свои первые проекты. Этот профиль — моё портфолио, где я показываю, чему научился.
+> *"Code is not just about making things work — it's about making them work well."*
 
-### 🎯 Чем я занимаюсь сейчас
+---
 
-- Изучаю **C#** и **.NET**
-- Пишу консольные приложения (калькуляторы, игры, утилиты)
-- Учусь работать с **Git** и **GitHub**
-- Познаю основы **HTML/CSS**
+## 🎯 About Me
 
-### 📂 Мои проекты
+- 💻 I'm passionate about **C#** and **.NET** development
+- 🛠️ I love building console apps, Telegram bots, and OOP systems
+- 📚 Currently learning: **ASP.NET Core** | **Entity Framework**
+- 🌍 From Uzbekistan 🇺🇿
 
-| Проект | Что умеет | Статус |
-|--------|-----------|--------|
-| [GeometryGuru](https://github.com/is1omzhon/GeometryGuru) | Калькулятор геометрических фигур | В разработке|
+---
 
-### 📚 Чему я учусь прямо сейчас
+## 🔥 My Best Projects
 
-- 🔄 Работа с массивами и коллекциями
-- 📁 Файловый ввод/вывод
-- 🧪 Написание простых тестов
+| Project | Description | Tech Stack |
+|---------|-------------|------------|
+| 🍽️ [Restaurant-Management](https://github.com/is1omzhon/Restaurant-Menegment) | Restaurant management system with OOP | C#, OOP |
+| 🤖 [TaskMasterBot](https://github.com/is1omzhon/TaskMasterBot) | Telegram bot for task management | C#, Telegram Bot API |
+| 🛒 [OnlineStore](https://github.com/is1omzhon/OnlineStore) | E-commerce order management system | C#, .NET |
+| 📇 [ContactBook](https://github.com/is1omzhon/ContactBook) | Contact management application | C#, OOP |
+| ✅ [ToDoList](https://github.com/is1omzhon/ToDoList) | Task manager application | C#, OOP |
+| 👥 [EmployeeManagementSystem](https://github.com/is1omzhon/EmployeeMenegerSystem) | Employee management system | C#, OOP |
 
-### 🤝 Хотите посоветовать или помочь?
+---
 
-Я открыт к:
-- Советам по улучшению кода
-- Идеям для небольших проектов
-- Знакомству с другими начинающими
+## 🛠️ Tech Stack
 
-⭐ *Я только в начале пути, но каждый день учусь чему-то новому*
-
-## 📫 Как связаться со мной
 
 - **GitHub:** [@is1omzhon](https://github.com/is1omzhon)
 - **Telegram:** [@is1am0025]((https://web.telegram.org/a/))
