@@ -11,7 +11,7 @@
 - 💻 I'm passionate about **C#** and **.NET** development
 - 🛠️ I love building console apps, Telegram bots, and OOP systems
 - 📚 Currently learning: **ASP.NET Core** | **Entity Framework**
-- 🌍 From Uzbekistan 🇺🇿
+
 
 ---
 
